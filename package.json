@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.21",
+    "crossenv": "0.0.2-security",
     "express": "^4.19.2",
-    "lodahs": "1.0.0",
-    "crossenv": "0.0.2-security" 
+    "lodahs": "^0.0.1-security",
+    "lodash": "^4.17.21"
   }
 }
