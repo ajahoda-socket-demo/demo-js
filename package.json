@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.19.2",
+    "lodahs": "^0.0.1-security",
     "pm2": "^5.4.2"
   }
 }
