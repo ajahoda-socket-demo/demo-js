@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "crossenv": "^0.0.2-security",
     "express": "^4.19.2",
     "lodahs": "^0.0.1-security",
     "pm2": "^5.4.2"
